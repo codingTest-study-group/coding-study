@@ -9,9 +9,20 @@ public class Main {
         int b = sc.nextInt();
         sc.close();
 
-        if (a < b) System.out.println("<");
-        if (a > b) System.out.println(">");
-        if (a == b) System.out.println("==");
+        String result;
 
+        switch (Integer.signum(a - b)) {
+            case 1:
+                result = ">";
+                break;
+            case -1:
+                result = "<";
+                break;
+            default:
+                result = "==";
+                break;
+        }
+
+        System.out.println(result);
     }
 }
