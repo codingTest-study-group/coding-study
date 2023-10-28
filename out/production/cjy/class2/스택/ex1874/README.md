@@ -1,0 +1,1 @@
+<img width="1215" alt="스크린샷 2023-10-27 오후 3 27 40" src="https://github.com/codingTest-study-group/coding-study/assets/107467750/6e3b8d6e-d0c3-4f9e-b8e2-dbcc2180f4cf">
