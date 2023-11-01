@@ -34,7 +34,7 @@ public class ex14888 {
 
     }
 
-    public static void dfs(int n, int index){
+    private static void dfs(int n, int index){
         if(index == N){
             MAX = Math.max(MAX, n);
             MIN = Math.min(MIN, n);
