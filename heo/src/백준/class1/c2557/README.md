@@ -1,0 +1,1 @@
+![image](https://github.com/codingTest-study-group/coding-study/assets/112863029/fc1ed388-af95-4a48-abec-c47e8dfbd54a)
