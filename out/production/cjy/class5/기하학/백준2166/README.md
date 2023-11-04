@@ -1,0 +1,1 @@
+<img width="737" alt="image" src="https://github.com/codingTest-study-group/coding-study/assets/107467750/bd4b19d7-59a7-48e9-a6b2-76ba9321b710">
