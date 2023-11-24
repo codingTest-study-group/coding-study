@@ -1,4 +1,4 @@
-package 백준.class1.c10998.c25083;
+package 백준.class1.c25083;
 
 public class Main {
     public static void main(String[] args) {
