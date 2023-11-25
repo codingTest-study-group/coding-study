@@ -1,4 +1,4 @@
-package 백준.class1.c1330.c1008;
+package 백준.class1.c1008;
 
 import java.util.Scanner;
 
