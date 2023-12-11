@@ -1,0 +1,1 @@
+![스크린샷 2023-12-07 오후 10 44 24](https://github.com/codingTest-study-group/coding-study/assets/112863029/d9fee401-afa7-4bef-a7cf-a212eab3a1f6)
